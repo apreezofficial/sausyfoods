@@ -873,7 +873,7 @@ section,
 
 @keyframes up-down {
   0% {
-    transform: scale(0.5) rotate(0deg) translateY(10px);
+    transform: scale(0.7) rotate(0deg) translateY(10px);
   }
 
   100% {transform: scale(1.0) rotate(360deg) translate(10px);
