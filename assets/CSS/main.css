@@ -876,7 +876,7 @@ section,
     transform: scale(0.7) rotate(0deg) translateY(10px);
   }
 
-  100% {transform: scale(1.0) rotate(360deg) translate(10px);
+  100% {transform: scale(1.0) rotate(360deg) translateY(10px);
   }
 }
 
